@@ -8,3 +8,15 @@ Generally, your output variable will be sales or conversions, but it can also be
 
 
 ![Img](https://github.com/abhamidi-1234/Marketing-Mix-Modeling/blob/main/Capture1.PNG)
+
+## Marketing Mix Modeling steps
+
+![Img](https://github.com/abhamidi-1234/Marketing-Mix-Modeling/blob/main/Capture2.PNG)
+
+## Attribution graph
+
+![Img](https://github.com/abhamidi-1234/Marketing-Mix-Modeling/blob/main/Capture3.PNG)
+
+## Budget Optimization
+
+![Img](https://github.com/abhamidi-1234/Marketing-Mix-Modeling/blob/main/Capture4.PNG)
