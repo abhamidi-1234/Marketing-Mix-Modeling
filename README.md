@@ -9,6 +9,8 @@ Generally, your output variable will be sales or conversions, but it can also be
 
 ![Img](https://github.com/abhamidi-1234/Marketing-Mix-Modeling/blob/main/Capture1.PNG)
 
+Attribution modeling, also known as channel attribution modeling, is the process of assigning credit to various marketing channels or touchpoints that have contributed to a user's conversion or action (known as an event)
+
 ## Marketing Mix Modeling steps
 
 ![Img](https://github.com/abhamidi-1234/Marketing-Mix-Modeling/blob/main/Capture2.PNG)
